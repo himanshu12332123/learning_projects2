@@ -1,5 +1,5 @@
 import openai
-hi
+
 from openai import OpenAI
 
 key = "key open ai"
